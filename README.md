@@ -79,6 +79,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
  ## C
 - [Cloudbooklet AI](https://www.cloudbooklet.net/) - Cloudbooklet AI Tools.
 - [CogList AI](https://coglist.com/) - AI Agents/Tools Directory and List for Indie Hackers in Project Building.
+- [Calv-Indo] (https://calv-indo.com/ai-direktori/) - AI directory for productivity Writing, Video, Coding, Design, Marketing etc.
 
 
 ## D 
